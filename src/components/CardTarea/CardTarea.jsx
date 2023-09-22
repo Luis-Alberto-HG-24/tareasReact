@@ -1,6 +1,6 @@
 import { useState } from "react"
 
-export const CardTarea = ({tarea,index,handleCambiar,handleElimina}) => {
+export const CardTarea = ({tarea,index,handleCambiar,handleEliminar}) => {
 
     return (
         <>
